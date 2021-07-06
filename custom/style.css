@@ -1,3 +1,20 @@
-.h11{
-    color: red;
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,700&display=swap");
+.header {
+  background-image: url("./../images/main.png");
+  background-position: center center;
+  background-size: 100% 100%;
 }
+
+.header .nav-link {
+  color: white !important;
+}
+
+.header .navbar-toggler {
+  border: 1px solid white;
+  color: white;
+}
+
+.header .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+/*# sourceMappingURL=style.css.map */
