@@ -36,23 +36,28 @@
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   color: white;
-  font-size: 70px;
+  font-size: 80px;
 }
 
 .header .hero p {
   color: white;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .header .hero .left {
-  margin-top: 4%;
+  margin-top: 8%;
 }
 
 .header .hero button {
   border-radius: 20px;
   border: none;
+  margin-top: 20px;
   font-family: 'Roboto', sans-serif;
+  background: #e37bc3;
+  color: white;
+  padding: 10px 25px;
+  background: linear-gradient(190deg, #e37bc3 0%, #6f4462 100%);
 }
 /*# sourceMappingURL=style.css.map */

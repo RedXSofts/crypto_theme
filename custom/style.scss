@@ -5,8 +5,7 @@ $c1:#180B56;
 $c2 :#E37BC3;
 $c3 :#8074BC;
 $c4 :#9E8ED4;
-background: rgb(227,123,195);
-background: linear-gradient(190deg, rgba(227,123,195,1) 0%, rgba(111,68,98,1) 100%);
+
 
 .c1
 {
@@ -49,25 +48,30 @@ background: linear-gradient(190deg, rgba(227,123,195,1) 0%, rgba(111,68,98,1) 10
         font-family: 'Roboto', sans-serif;
         font-weight: 400;
         color: white;
-        font-size: 70px;
+        font-size: 80px;
       }
       p
       {
         color: white;
         font-family: 'Roboto', sans-serif;
         font-weight: 400;
-        font-size: 14px;
+        font-size: 15px;
       }
       .left
       {
-        margin-top: 4%;
+        margin-top: 8%;
       }
 
       button
       {
         border-radius: 20px;
         border: none;
+        margin-top: 20px;
         font-family: 'Roboto', sans-serif;
+        background: rgb(227,123,195);
+        color:white;
+        padding: 10px 25px;
+        background: linear-gradient(190deg, rgba(227,123,195,1) 0%, rgba(111,68,98,1) 100%);
       }
      
     }
