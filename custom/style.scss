@@ -8,6 +8,11 @@ $c4 :#9E8ED4;
 background: rgb(227,123,195);
 background: linear-gradient(190deg, rgba(227,123,195,1) 0%, rgba(111,68,98,1) 100%);
 
+.c1
+{
+  color: $c1;
+}
+
 .header
 {
      background-image: url("./../images/main.png");
@@ -45,6 +50,24 @@ background: linear-gradient(190deg, rgba(227,123,195,1) 0%, rgba(111,68,98,1) 10
         font-weight: 400;
         color: white;
         font-size: 70px;
+      }
+      p
+      {
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+      }
+      .left
+      {
+        margin-top: 4%;
+      }
+
+      button
+      {
+        border-radius: 20px;
+        border: none;
+        font-family: 'Roboto', sans-serif;
       }
      
     }
