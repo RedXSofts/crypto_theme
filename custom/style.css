@@ -60,4 +60,37 @@
   padding: 10px 25px;
   background: linear-gradient(190deg, #e37bc3 0%, #6f4462 100%);
 }
+
+.h2-sec2{
+    padding-top: 40px;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+.h3-sec2{
+    color: #E37BC3;
+}
+.sp_2{
+    padding-top: 10px;
+}
+.sec-2{
+    margin-top: 50px;
+}
+.sec-3{
+    margin-top: 50px;
+}
+.sec-3-3{
+   
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+.card-body{
+    background-color: #180B56;
+    color: white;
+ 
+}
 /*# sourceMappingURL=style.css.map */
