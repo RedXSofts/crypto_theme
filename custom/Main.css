@@ -1,0 +1,265 @@
+.h2-sec2{
+    padding-top: 100px;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+.h3-sec2{
+    color: #E37BC3;
+}
+.sp_2{
+    padding-top: 10px;
+}
+.sec-2{
+    margin-top: 50px;
+}
+.sec-3{
+    margin-top: 50px;
+}
+.sec-3-3{
+
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+
+}
+.card-body{
+    background-color: #180B56;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-bottom: 100px;
+}
+.h6-basic{
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.h2-3{
+    font-size: 50px;
+    padding-top: 5px;
+}
+.p-min{
+    font-weight: 400;
+}
+.h6-bonus{
+    color:#E37BC3 ;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.card2-img{
+    margin-bottom: 78px;
+}
+
+.sec-4{
+    margin: auto;
+    background-image: url("./../images/sec4-bg.png");
+     background-position: center center;
+     background-size: 100% 100%;
+     /* height: 600px; */
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    /* margin-top: 300px; */
+}
+.h3-sec3{
+    font-size:45px ;
+}
+.plans{
+    padding-top: 100px;
+}
+.btn-1{
+    border-radius: 20px;
+        border: none;
+        margin-top: 20px;
+        font-family: 'Roboto', sans-serif;
+        background: rgb(227,123,195);
+        color:white;
+        padding: 10px 25px;
+        background: linear-gradient(190deg, rgba(227,123,195,1) 0%, rgba(111,68,98,1) 100%);
+        padding-left: 40px;
+        padding-right: 40px;
+}
+.sec4-c4{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.h6-invest{
+    padding-top: 50px;
+
+}
+.h2-smart{
+    
+    font-size: 60px;
+    line-height: 0.9;
+    padding-bottom: 10px;
+}
+.sec-5{
+    background-image: url("./../images/sec5-img.png");
+    background-position: center center;
+    background-size: 100% 100%;
+    height: 700px;
+    padding-top: 200px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.div-s4{
+    padding-top: 180px
+}
+.sec-d6{
+    text-align: left;
+    padding-left: 220px;
+    
+}
+.sec5-p{
+    padding-right: 185px;
+}
+.h2-benefits{
+    font-weight: 400;  
+    font-size: 3rem; 
+    padding-bottom: 30px; 
+}
+.h6-solutions{
+    font-size: 15px;
+    font-weight: 400px;
+}
+
+.storage{
+    background-color: white;
+    color: black;
+    height: 500px;
+    border-radius: 30px;
+}
+
+
+.sec-6{
+    margin-top: -10px;
+    background-color: #180B56;
+    height: 1000px;
+}
+.safestorage{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-left: 40px;
+
+}
+.h2-storage{
+    padding-top: 100px;
+    font-size: 60px;
+    font-weight: 400;
+}
+.imgstorage{
+    padding-top: 50px;
+    padding-left: 80px;
+}
+.foursteps{
+    padding-top: 300px;
+    text-align: center;
+    color: white;
+}
+.fourstepsh6{
+    color: #E37BC3;
+}
+.works{
+    font-size: 50px;
+}
+.card-s1{
+    height: 350px;
+    width: 250px;
+    margin:10px;
+    background-color: white;
+    border-radius: 20px; 
+}
+.cards-4s{
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+.img-s1{
+    margin-left: 143px;
+}
+.main-cardh{
+    padding-top: 20px;
+    font-weight: 500;
+}
+.paratext{
+    padding-top: 8px;
+    font-size: 15px;
+}
+.sec-7{
+    background-color: #180B56;
+    height: 200px;
+    justify-content: center;
+    
+}
+.newsletter-1{
+    background-color: #141C2E;
+    z-index: 2;
+    width: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left:20px;
+    padding-right:30px;
+    border-radius: 20px;
+}
+
+
+.subscription-content {
+    -webkit-transform: skewY(-1deg);
+    transform: skewY(-1deg)
+}
+
+h3,
+.h3 {
+    font-size: 30px
+}
+
+.flex-fill {
+    -ms-flex: 1 1 auto !important;
+    flex: 1 1 auto !important
+}
+
+.subscription.bg-white .form-control {
+    border: 1px solid white !important
+}
+
+.subscription-wrapper .form-control {
+    height: 60px;
+    border-radius: 45px
+}
+
+.flex-fill{
+    color: white;
+}
+
+
+.btn-2{
+    border-radius: 20px;
+    border: none;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    background: rgb(227,123,195);
+    color: white;
+    padding: 10px 25px;
+    margin-left: -49px;
+
+    background: linear-gradient(
+190deg
+, rgba(227,123,195,1) 0%, rgba(111,68,98,1) 100%);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.your-email{
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 10px 25px;
+}
