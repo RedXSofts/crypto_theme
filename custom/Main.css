@@ -263,3 +263,34 @@ h3,
     border-radius: 20px;
     padding: 10px 25px;
 }
+
+.footer{
+    padding-top: 150px;
+    background-color: #180B56;
+    color: white;
+    padding-bottom: 30px;
+    margin-bottom: -20px;
+}
+.nav-link{
+    color: white;
+}
+.footer-rights{
+    margin-top: 20px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    background-color: #131C2D;
+}
+.login-btn{
+    margin-right: 10px;
+}
+.btn-outline-success{
+    color: #ffffff;
+    border-color: #ffffff;
+}
+.btn-outline-success:hover{
+    background-color:#E37BC3 ;
+    border-color:#E37BC3 ; 
+}
+.header{
+    padding-top: 10px;
+}
