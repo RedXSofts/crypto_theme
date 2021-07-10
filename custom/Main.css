@@ -159,7 +159,7 @@
     padding-left: 80px;
 }
 .foursteps{
-    padding-top: 300px;
+    padding-top: 100px;
     text-align: center;
     color: white;
 }
@@ -200,13 +200,12 @@
 }
 .newsletter-1{
     background-color: #141C2E;
-    z-index: 2;
-    width: 800px;
+    padding:22px;
+    border-radius: 30px;
     padding-top: 50px;
     padding-bottom: 50px;
-    padding-left:20px;
-    padding-right:30px;
-    border-radius: 20px;
+
+    
 }
 
 
@@ -316,3 +315,5 @@ h3,
 .text-gray-soft{
     padding-top: 10px;
 }
+
+
