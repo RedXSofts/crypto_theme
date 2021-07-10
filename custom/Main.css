@@ -105,9 +105,7 @@
     background-image: url("./../images/sec5-img.png");
     background-position: center center;
     background-size: 100% 100%;
-    height: 700px;
-    padding-top: 200px;
-    color: white;
+    color: black;
     font-family: 'Roboto', sans-serif;
 }
 .div-s4{
@@ -196,7 +194,7 @@
 }
 .sec-7{
     background-color: #180B56;
-    height: 200px;
+
     justify-content: center;
     
 }
@@ -276,7 +274,7 @@ h3,
 }
 .footer-rights{
     margin-top: 20px;
-    padding-top: 25px;
+    padding-top: 10px;
     padding-bottom: 20px;
     background-color: #131C2D;
 }
@@ -292,5 +290,29 @@ h3,
     border-color:#E37BC3 ; 
 }
 .header{
+    padding-top: 1px;
+}
+
+/* SIGN IN CSS */
+.form-signin{
+    margin-top: 50px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.btc-img{
+  
+    background-image: url(//Images/btc-bg.jpg);
+
+}
+.form-signin1{
+    margin: auto;
+    text-align: center;
+}
+.form-floating{
+    margin-top: 11px;
+    color: rgb(75, 75, 75);
+}
+.text-gray-soft{
     padding-top: 10px;
 }
