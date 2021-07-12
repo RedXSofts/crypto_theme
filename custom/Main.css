@@ -302,6 +302,8 @@ h3,
 .btc-img{
   
     background-image: url(//Images/btc-bg.jpg);
+    background-position: center center;
+    background-size: cover;
 
 }
 .form-signin1{
