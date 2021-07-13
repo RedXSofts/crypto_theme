@@ -3,6 +3,7 @@
     font-size: 40px;
     font-family: 'Roboto', sans-serif;
 }
+
 .h3-sec2{
     color: #E37BC3;
 }
@@ -149,6 +150,9 @@
     padding-left: 40px;
 
 }
+.safety{
+    padding-left: 50px;
+}
 .h2-storage{
     padding-top: 100px;
     font-size: 60px;
@@ -291,21 +295,19 @@ h3,
 .header{
     padding-top: 1px;
 }
-
+.plans{
+    color: #E37BC3;
+}
 /* SIGN IN CSS */
+
+
 .form-signin{
     margin-top: 50px;
     color: white;
     justify-content: center;
     align-items: center;
 }
-.btc-img{
-  
-    background-image: url(//Images/btc-bg.jpg);
-    background-position: center center;
-    background-size: cover;
 
-}
 .form-signin1{
     margin: auto;
     text-align: center;
@@ -317,5 +319,27 @@ h3,
 .text-gray-soft{
     padding-top: 10px;
 }
+.sign-in1{
+    padding-bottom: 200px;
+}
+
+/* Sign Up  */
+.signup-img{
+    margin: auto;
+    text-align: center;
+}
+
+/* MEDIA Query */
+
+@media only screen and (max-width: 600px) {
+    /* For mobile phones: */
+    [class*="hero"] {
+     text-align: center;
+     padding-bottom: 500px;
+    }
 
 
+
+    
+  }
+  
