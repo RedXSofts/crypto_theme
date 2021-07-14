@@ -1,4 +1,10 @@
-
+/* NAVBAR */
+.navbar-brand{
+    padding-top: 30px;
+}
+.home-margin{
+    margin-left: 35px;
+}
 
 .h2-sec2{
     padding-top: 100px;
