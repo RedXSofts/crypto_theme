@@ -2,7 +2,9 @@
 .c1 {
   color: #180B56;
 }
-
+.row{
+  --bs-gutter-x:0;
+}
 .header {
   background-image: url("./../images/main.png");
   
