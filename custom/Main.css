@@ -3,6 +3,17 @@
     padding-top: 30px;
     margin-top: -15px;
 }
+.anchor-link{
+    text-decoration: none;
+    color: white;
+}
+.parapadding{
+    padding-bottom: 20px;
+}
+.anchor-link:hover{
+    text-decoration: none;
+    color: white;
+}
 .home-margin{
     margin-left: 35px;
 }
@@ -46,6 +57,7 @@
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
     margin-bottom: 100px;
+    padding-bottom: 50px;
 }
 .h6-basic{
     margin-top: 10px;
@@ -87,9 +99,10 @@
     font-family: 'Roboto', sans-serif;
     background: linear-gradient(190deg, rgba(227,123,195,1) 0%, rgba(111,68,98,1) 100%);
     color: white;
-    padding: 10px 25px;
+    padding: 13px 25px;
     padding-right: 50px;
     padding-left: 50px;
+
 }
 .h3-sec3{
     font-size:45px ;
