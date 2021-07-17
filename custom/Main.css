@@ -430,5 +430,13 @@ h3,
         text-align: justify;
         
     }
-  }
+    /* SIGN IN IMAGES */
+    .signup-img{
+        display: none;
+    }
+    .mobile-view{
+        display: none;
+    }
+}
+  
   
