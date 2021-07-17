@@ -437,6 +437,10 @@ h3,
     .mobile-view{
         display: none;
     }
+    .home-margin{
+        margin-top: 10px;
+        margin-left: 0px;
+    }
 }
   
   
